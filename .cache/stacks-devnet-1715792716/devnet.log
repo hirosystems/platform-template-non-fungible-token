@@ -1,0 +1,23 @@
+May 15 17:05:17.245 INFO Checking contracts
+May 15 17:05:17.280 INFO Starting Devnet
+May 15 17:05:17.281 INFO Listening on port 20445 for Stacks chain events
+May 15 17:05:17.281 INFO Observing Bitcoin chain events via Stacks node
+May 15 17:05:17.292 INFO Initiating Devnet boot sequence (working_dir: /Users/leah/Projects/clarity-examples/examples/non-fungible-token/./.cache/stacks-devnet-1715792716)
+May 15 17:05:17.295 INFO Creating network non-fungible-token.devnet
+May 15 17:05:17.295 INFO Starting bitcoin-node
+May 15 17:05:18.304 INFO Created container bitcoin-node: f460df477bc664af2c12cff940c04d3a1ad943ce826a16ff718145e8b87e1271
+May 15 17:05:18.643 INFO Configuring bitcoin-node
+May 15 17:05:19.666 INFO Waiting for bitcoin-node
+May 15 17:05:19.677 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+May 15 17:05:20.673 INFO Waiting for bitcoin-node
+May 15 17:05:20.675 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+May 15 17:05:21.679 INFO Waiting for bitcoin-node
+May 15 17:05:21.684 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+May 15 17:05:22.689 INFO Waiting for bitcoin-node
+May 15 17:05:22.707 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+May 15 17:05:23.705 INFO Waiting for bitcoin-node
+May 15 17:05:23.727 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+May 15 17:05:24.727 INFO Waiting for bitcoin-node
+May 15 17:05:24.730 ERRO unable to send 'getnetworkinfo' request (error sending request for url (http://localhost:18443/): error trying to connect: tcp connect error: Connection refused (os error 61))
+May 15 17:05:24.914 WARN Ctrl+C received, initiating termination sequence.
+May 15 17:05:24.923 INFO Handling Termination command
