@@ -14,7 +14,7 @@ You can see this [`nft-trait` reference in the Hiro Stacks Explorer](https://exp
 
 ## Test your contract
 
-You can manually test your contract in the Clarinet console. After entering the console with `clarinet console` you can make contract function calls like
+You can manually test your contract in the [Clarinet](https://docs.hiro.so/stacks/clarinet) console. After entering the console with `clarinet console` you can make contract function calls like
 `(contract-call? .nft claim)`
 `(contract-call? .nft get-last-token-id)`
 
